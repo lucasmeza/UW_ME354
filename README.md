@@ -1,5 +1,5 @@
-# me354_autumn2020
-The repository contains the course files and codes for UW ME 354 laboratories, homework and lecture demos.
+# UW ME 354 - Mechanics of Materials
+The repository contains the course files and codes for UW ME 354 laboratories and lecture demos.
 
 Any code published here will automatically be pushed to the course JupyterHub installation as a read only file. 
 
