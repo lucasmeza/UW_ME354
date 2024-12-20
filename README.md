@@ -1,8 +1,6 @@
 # UW ME 354 - Mechanics of Materials
 The repository contains the course files and codes for UW ME 354 laboratories and lecture demos.
 
-Any code published here will automatically be pushed to the course JupyterHub installation as a read only file. 
-
-Before editing any code here, copy it to a different directory in your home folder to be sure it is not overwritten. 
+If you are using these codes as part of a JupyterHub installation for ME 354, be sure to copy files to a different directory in your home folder before editing them to ensure they are not overwritten. 
 
 Be sure to ask the Professor or TAs for any necessary clarifications. 
